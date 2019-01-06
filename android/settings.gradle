@@ -1,0 +1,3 @@
+rootProject.name = 'CobaRn'
+
+include ':app'
